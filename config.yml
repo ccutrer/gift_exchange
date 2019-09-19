@@ -18,6 +18,21 @@ families:
    - Walter
    - Lionel
 history:
+  2019:
+    JT: Tatum
+    Chaz: Sophie
+    Brody: Hallie
+    Colbie: Suzie
+    Carson: Chaz
+    Hallie: JT
+    Tucker: Crew
+    Stacia: Tucker
+    Crew: Walter
+    Sophie: Lionel
+    Tatum: Colbie
+    Suzie: Carson
+    Walter: Stacia
+    Lionel: Brody
   2018:
     JT: Tucker
     Chaz: Stacia
