@@ -1,6 +1,5 @@
 families:
   jeff_and_trisha:
-   - JT
    - Chaz
    - Brody
    - Colbie
@@ -19,20 +18,19 @@ families:
    - Lionel
 history:
   2019:
-    JT: Tatum
     Chaz: Sophie
-    Brody: Hallie
-    Colbie: Suzie
-    Carson: Chaz
-    Hallie: JT
-    Tucker: Crew
-    Stacia: Tucker
-    Crew: Walter
-    Sophie: Lionel
-    Tatum: Colbie
-    Suzie: Carson
-    Walter: Stacia
-    Lionel: Brody
+    Brody: Tatum
+    Colbie: Carson
+    Carson: Lionel
+    Hallie: Suzie
+    Tucker: Walter
+    Stacia: Colbie
+    Crew: Hallie
+    Sophie: Brody
+    Tatum: Chaz
+    Suzie: Crew
+    Walter: Tucker
+    Lionel: Stacia
   2018:
     JT: Tucker
     Chaz: Stacia
