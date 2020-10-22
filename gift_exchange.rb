@@ -48,6 +48,8 @@ class GiftExchange
       # same person gave last year
       next if @history[0] && @history[0][giver] == recipient
       next if @history[1] && @history[1][giver] == recipient
+      # Brody has to have Lionel this year
+      next if giver == 'Brody' && recipient != 'Lionel' && Time.now.year == 2020
 
       next_assigned_so_far = assigned_so_far.dup
       next_assigned_so_far[giver] = recipient
