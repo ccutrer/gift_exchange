@@ -18,6 +18,21 @@ families:
    - Walter
    - Lionel
 history:
+  2021:
+    Brody: Sophie
+    Colbie: Stacia
+    Hallie: Lionel
+    Tucker: Tatum
+    Makenna: Walter
+    Mailey: Colbie
+    Bennett: Brody
+    Stacia: Bennett
+    Crew: Tucker
+    Sophie: Suzie
+    Tatum: Makenna
+    Suzie: Hallie
+    Walter: Crew
+    Lionel: Mailey
   2020:
     Brody: Lionel
     Colbie: Makenna
