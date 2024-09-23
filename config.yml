@@ -2,7 +2,6 @@ families:
   jeff_and_trisha:
    - Colbie
   necia_and_nick:
-   - Hallie
    - Tucker
    - Makenna
    - Mailey
@@ -20,6 +19,21 @@ families:
    - Athena
    - Presley
 history:
+  2024:
+    Colbie: Athena
+    Tucker: Suzie
+    Makenna: Sophie
+    Mailey: Lionel
+    Bennett: Crew
+    Stacia: Tatum
+    Crew: Walter
+    Sophie: Presley
+    Tatum: Stacia
+    Suzie: Bennett
+    Walter: Tucker
+    Lionel: Makenna
+    Athena: Colbie
+    Presley: Mailey
   2023:
     Colbie: Bennett
     Hallie: Colbie
